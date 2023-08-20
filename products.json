@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Emporio Armani",
+        "price": 312 ,
+        "image": { "fields": { "file": { "url": "./images/product1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Calvin Klein",
+        "price": 100,
+        "image": { "fields": { "file": { "url": "./images/product2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Coach",
+        "price": 300 ,
+        "image": { "fields": { "file": { "url": "./images/product3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Dolce & Gabbana",
+        "price": 287,
+        "image": { "fields": { "file": { "url": "./images/product4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Emporio Armani",
+        "price": 500,
+        "image": { "fields": { "file": { "url": "./images/product5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Hugo Boss",
+        "price": 467,
+        "image": { "fields": { "file": { "url": "./images/product6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Burberry",
+        "price": 438,
+        "image": { "fields": { "file": { "url": "./images/product7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Calvin Klein",
+        "price": 213,
+        "image": { "fields": { "file": { "url": "./images/product8.jpg" } } }
+      }
+    }
+  ]
+}
